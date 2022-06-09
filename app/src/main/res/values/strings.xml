@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Футбольное табло</string>
+    <string name="second_dot">:</string>
+    <string name="black">черный</string>
+    <string name="white">белый</string>
+    <string name="score_of_match">Счет матча</string>
+    <string name="reset_score">Обнулить счёт</string>
+    <string name="image_of_black">Изображение черного</string>
+    <string name="image_of_white">Изображение белого</string>
+</resources>
